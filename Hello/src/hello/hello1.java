@@ -28,6 +28,8 @@ System.out.print("Dev2-2 Comment ");
 ///Test
 System.out.println("Manoj print statement");
 
+///Karthik
+System.out.println("Karthik added this code.");
 	}
 }
 	
