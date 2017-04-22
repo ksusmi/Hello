@@ -34,6 +34,10 @@ System.out.println("Manoj print statement");
 
 ///Karthik
 System.out.println("Karthik added this code.");
+
+// Satinder
+
+System.out.println("satinder added this code.");
 	}
 
 }
